@@ -6024,8 +6024,8 @@ Grid 2.54 mm&lt;p&gt;
 <pin name="ENN" x="-22.86" y="-17.78" length="middle"/>
 <pin name="PSN" x="-22.86" y="-22.86" length="middle"/>
 <pin name="NC@1" x="-22.86" y="-27.94" length="middle"/>
-<pin name="OUT@1" x="22.86" y="-27.94" length="middle" rot="R180"/>
-<pin name="OUT@2" x="22.86" y="-22.86" length="middle" rot="R180"/>
+<pin name="OUTN@1" x="22.86" y="-27.94" length="middle" rot="R180"/>
+<pin name="OUTN@2" x="22.86" y="-22.86" length="middle" rot="R180"/>
 <pin name="VNEG" x="22.86" y="-17.78" length="middle" rot="R180"/>
 <pin name="FBN" x="22.86" y="-12.7" length="middle" rot="R180"/>
 <pin name="VREF" x="22.86" y="-7.62" length="middle" rot="R180"/>
@@ -6062,8 +6062,8 @@ Grid 2.54 mm&lt;p&gt;
 <connect gate="A" pin="INP@2" pad="24"/>
 <connect gate="A" pin="NC@1" pad="12"/>
 <connect gate="A" pin="NC@2" pad="20"/>
-<connect gate="A" pin="OUT@1" pad="13"/>
-<connect gate="A" pin="OUT@2" pad="14"/>
+<connect gate="A" pin="OUTN@1" pad="13"/>
+<connect gate="A" pin="OUTN@2" pad="14"/>
 <connect gate="A" pin="PGND@1" pad="2"/>
 <connect gate="A" pin="PGND@2" pad="3"/>
 <connect gate="A" pin="PSN" pad="11"/>
